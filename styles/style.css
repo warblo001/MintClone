@@ -1,5 +1,5 @@
 body {
-  background-color: #ECEEF1;
+  background-color: #eceef1;
   font-family: Helvetica, sans-serif;
   line-height: 15px;
   font-size: 14px;
@@ -29,7 +29,7 @@ header button {
 
 header a {
   font-size: 12px;
-  color: #0077C5;
+  color: #0077c5;
 }
 
 header p {
@@ -72,7 +72,7 @@ header p {
 }
 
 .formwrapper h1 {
-  color: #4C4C4C;
+  color: #4c4c4c;
   font-size: 24px;
   font-weight: 500;
   text-align: center;
@@ -85,13 +85,13 @@ header p {
 .formheading p {
   display: inline-block;
   margin-top: 25px;
-  color: #4C4C4C;
+  color: #4c4c4c;
   font-size: 14px;
 }
 
 .formheading a {
   font-size: 12px;
-  color: #0077C5;
+  color: #0077c5;
 }
 
 form {
@@ -138,7 +138,7 @@ form .passinput input {
 form .passinput i {
   display: inline-block;
   padding: 10px 10px 9px 10px;
-  color: #4C4C4C;
+  color: #4c4c4c;
 }
 
 form button {
@@ -162,11 +162,11 @@ form button {
 
 .formfooter a {
   font-size: 12px;
-  color: #0077C5;
+  color: #0077c5;
 }
 
 .containerfooter {
-  background-color: #ECEEF1;
+  background-color: #eceef1;
   font-size: 10px;
   width: 380px;
   padding: 16px 16px 16px 16px;
@@ -178,7 +178,7 @@ form button {
 }
 
 .containerfooter a {
-  color: #0077C5;
+  color: #0077c5;
 }
 
 footer {
