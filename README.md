@@ -4,7 +4,7 @@
 
 > This project is made as part of Microverse HTML/CSS curriculum
 
-![screenshot](./img/Screenshot.png)
+![screenshot](./img/Screenshot.jpg)
 
 Sample of static responsive web page 
 
@@ -15,12 +15,12 @@ Sample of static responsive web page
 
 ## HTML validation
 
-![screenshot](./img/validation.png)
+![screenshot](./img/valition.png)
 
 
 ## Live Demo
 
-[Live Demo Link](https://igors78.github.io/youtubeclone/)
+[Live Demo Link](https://warblo001.github.io/MintClone/)
 
 
 ## Getting Started
