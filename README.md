@@ -21,10 +21,10 @@ Sample of static web page
 
 [Live Demo Link](https://warblo001.github.io/MintClone/)
 
+**See the page via the link above**
 
 ## Getting Started
 
-**See the page via the link above**
 
 **See the Source Page via the link below**
 
