@@ -13,6 +13,7 @@ header {
   justify-content: flex-end;
   line-height: 10px;
   font-size: 12px;
+
   button {
     background-color: #0077c5;
     color: white;
@@ -21,10 +22,12 @@ header {
     border: 1px solid black;
     border-radius: 5px;
   }
+
   a {
     font-size: 12px;
     color: #0077c5;
   }
+
   p {
     color: #505050;
   }
@@ -45,6 +48,7 @@ header {
 }
 
 .imagediv {
+
   &:hover {
     cursor: pointer;
   }
@@ -63,6 +67,7 @@ header {
   border-right: 1px solid lightgrey;
   border-top: 1px solid lightgrey;
   border-bottom: none;
+
   h1 {
     color: #4c4c4c;
     font-size: 24px;
@@ -73,12 +78,14 @@ header {
 
 .formheading {
   text-align: center;
+
   p {
     display: inline-block;
     margin-top: 25px;
     color: #4c4c4c;
     font-size: 14px;
   }
+
   a {
     font-size: 12px;
     color: #0077c5;
@@ -92,6 +99,7 @@ form {
     display: inline-block;
     padding: 20px 0 6px;
   }
+
   input {
     border: 1px solid lightgrey;
     border-radius: 3px;
@@ -99,6 +107,7 @@ form {
     height: 34px;
     font-size: 16px;
   }
+
   p {
     display: inline-block;
     padding: 4px 0 0 0;
@@ -112,18 +121,21 @@ form {
     border: 1px solid lightgrey;
     border-radius: 3px;
     width: 320px;
+
     input {
       border: none;
       background-color: transparent;
       resize: none;
       outline: none;
     }
+
     i {
       display: inline-block;
       padding: 10px 10px 9px 10px;
       color: #4c4c4c;
     }
   }
+
   button {
     background-color: #0077c5;
     width: 320px;
@@ -142,6 +154,7 @@ form {
   text-align: center;
   padding: 30px 20px 0px 20px;
   color: #757575;
+
   a {
     font-size: 12px;
     color: #0077c5;
@@ -158,6 +171,7 @@ form {
   border-bottom: 1px solid lightgrey;
   text-align: center;
   color: gray;
+
   a {
     color: #0077c5;
   }
@@ -168,6 +182,7 @@ footer {
   text-align: center;
   line-height: 20px;
   font-size: 12px;
+
   a {
     display: inline-block;
     padding-left: 5px;
@@ -177,6 +192,7 @@ footer {
     }
   }
 }
+
 #Privacybtn {
   position: fixed;
   width: 124.38px;
