@@ -15,7 +15,6 @@ Sample of static web page
 
 ## HTML validation
 
-![screenshot](./img/valition.png)
 
 
 ## Live Demo
