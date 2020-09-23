@@ -115,7 +115,7 @@ form p {
   display: inline-block;
   padding: 4px 0 0 0;
   font-size: 10px;
-  color: #444444;
+  color: #444;
 }
 
 form .passinput {
@@ -156,7 +156,7 @@ form button {
   font-style: italic;
   line-height: 20px;
   text-align: center;
-  padding: 30px 20px 0px 20px;
+  padding: 30px 20px 0 20px;
   color: #757575;
 }
 
@@ -182,7 +182,7 @@ form button {
 }
 
 footer {
-  margin: 0px 0px 10px 0px;
+  margin: 0 0 10px 0;
   color: #505050;
   text-align: center;
   line-height: 20px;
@@ -204,7 +204,7 @@ footer a:hover {
   width: 124.38px;
   height: 41px;
   border-radius: 3px;
-  color: #ffffff;
+  color: #fff;
   padding: 10px 12px;
   font-size: 14px;
   background-color: #6b6c72;
