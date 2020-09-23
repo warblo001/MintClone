@@ -28,7 +28,7 @@ Sample of static web page
 
 **See the Source Page via the link below**
 
-[Live Demo Link](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Futm_medium%3Ddirect%26cta%3Dhero_sign_up_free_ProspectWeb%26ivid%3Dceb0b50f-86c3-49f1-8afc-b324156f9e82%26adobe_mc%3DMCMID%253D91663758404603015712806505362964277204%257CMCORGID%253D969430F0543F253D0A4C98C6%252540AdobeOrg%257CTS%253D1600850076%26ivid%3Dceb0b50f-86c3-49f1-8afc-b324156f9e82#)
+[Source Page Link](https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Futm_medium%3Ddirect%26cta%3Dhero_sign_up_free_ProspectWeb%26ivid%3Dceb0b50f-86c3-49f1-8afc-b324156f9e82%26adobe_mc%3DMCMID%253D91663758404603015712806505362964277204%257CMCORGID%253D969430F0543F253D0A4C98C6%252540AdobeOrg%257CTS%253D1600850076%26ivid%3Dceb0b50f-86c3-49f1-8afc-b324156f9e82#)
 
 
 
