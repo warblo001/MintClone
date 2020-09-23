@@ -1,0 +1,124 @@
+body {
+  background-color: #ECEEF1;
+  font-family: Helvetica, sans-serif;
+  line-height: 15px;
+  font-size: 14px;
+}
+
+header {
+  padding: 10px 10px 20px 20px;
+  margin-right: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  line-height: 10px;
+  font-size: 12px;
+}
+
+header button {
+  background: #2e2ef7;
+  color: white;
+  width: 100px;
+  height: 35px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+header a {
+  font-size: 12px;
+  color: #0077C5;
+}
+
+header p {
+  color: #505050;
+}
+
+.headerwrapper {
+  padding-right: 10px;
+}
+
+.passinput {
+  border: 1px solid black;
+}
+
+.container {
+  width: 380px;
+  height: 660px;
+  margin: 10px auto;
+}
+
+.imagediv {
+  padding-left: 26px;
+  padding-top: 3px;
+}
+
+.formwrapper {
+  padding: 30px;
+  border: 1px solid grey;
+  background-color: white;
+  width: 380px;
+  height: 661px;
+  margin-top: 10px;
+}
+
+.formwrapper h1 {
+  color: #4C4C4C;
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.formheading {
+  text-align: center;
+}
+
+.formheading p {
+  display: inline-block;
+  margin-top: 25px;
+  color: #4C4C4C;
+  font-size: 14px;
+}
+
+.formheading a {
+  font-size: 12px;
+  color: #0077C5;
+}
+
+form {
+  margin-top: 20px;
+}
+
+form label {
+  display: inline-block;
+  padding: 20px 0 6px;
+}
+
+form input {
+  border: 1px solid grey;
+  border-radius: 3px;
+  width: 320px;
+  height: 34px;
+  font-size: 16px;
+}
+
+form p {
+  font-size: 10px;
+  color: #444444;
+}
+
+.passinput {
+  border: none;
+}
+
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=style.css.map */

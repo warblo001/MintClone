@@ -4,48 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mint Clone Project</title>
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="https://kit.fontawesome.com/013fb8bd39.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
-        <p>Already have an Intuit account?</p>
+        <div class="headerwrapper">
+        <p>Already have an Intuit account?</p><br>
         <a href="#">I forgot my User ID or Password</a>
-        <button>Sign In</button>
+        </div>
+        <button><i class="fas fa-lock"></i> Sign In</button>
     </header>
 
     <main>
         <div class="container">
             <div class="imagediv">
-                <img src="/MintClone/img/intuit.jpg">
+                <img src="img/intuit.jpg" alt="Logo">
             </div>
+        <div class="formwrapper">
             <div class="formheading">
                 <h1>Create an Intuit account</h1>
                 <p>One account for everything Intuit, including Mint</p>
                 <a href="#">Learn more</a>
             </div>
-        <form action="submit">
-                <label for="email">Email address
+                <form action="submit" >
+                <label for="email">Email address<br>
                     <input type="email" name="signup" id="email" required>
                 </label>
-                <label for="phone">Phone (recommended)
+                <label for="phone">Phone (recommended)<br>
                     <input type="tel" name="signup" id="phone" required>
                     <p>Standard call, messaging or data rates may apply.</p>
                 </label>
-                <label for="password">Email address
-                    <input type="password" name="signup" id="password" required>
+                <label for="password">Password<br>
+                    <div class="passinput">
+                    <input type="password" name="signup" id="password" required placeholder=""> 
+                    <i class="fas fa-lock-open"></i>
+                    </div>
                 </label>
+                <br>
                 <button>Create Account</button>
-        </form>
-        <div class="formfooter">
+            </form>
+            <div class="formfooter">
                 <p>By clicking Create account, you agree to our 
                 <a href="#">Terms</a> and acknowledge our <a href="#">Privacy Statement.</a>
                 </p>
-        </div>
-        <div class="containerfooter">
+            </div>
+            <div class="containerfooter">
             <p>
                 Invisible reCAPTCHA by Google <a href="#">Privacy Policy</a> and have read and 
                 acknowledge our <a href="#">Privacy Statement.</a>
             </p>
-        </div>
+            </div>
+            </div>
         </div>
     </main>
     <footer>
@@ -59,9 +70,9 @@
         <p>Terms and conditions, features, support, 
             pricing, and service options subject to change without notice.</p>
         
-    </footer>
-
-    <button>Privacy Settings</button>
+        </footer>
+        
+        <button id="Privacybtn">Privacy Settings</button>
 
 </body>
 </html>
