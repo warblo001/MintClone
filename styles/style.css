@@ -50,10 +50,6 @@ footer a {
   color: #505050;
 }
 
-footer a:hover {
-  text-decoration: underline;
-}
-
 .headerwrapper {
   padding-right: 10px;
 }
@@ -210,5 +206,9 @@ form button {
   background-color: #6b6c72;
   bottom: 0;
   right: 50px;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
 /*# sourceMappingURL=style.css.map */
