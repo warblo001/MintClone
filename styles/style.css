@@ -78,22 +78,6 @@ header p {
   text-align: center;
 }
 
-.formheading {
-  text-align: center;
-}
-
-.formheading p {
-  display: inline-block;
-  margin-top: 25px;
-  color: #4c4c4c;
-  font-size: 14px;
-}
-
-.formheading a {
-  font-size: 12px;
-  color: #0077c5;
-}
-
 form {
   margin-top: 20px;
 }
@@ -149,6 +133,22 @@ form button {
   color: white;
   font-size: 16px;
   margin: 25px 0 0 0;
+}
+
+.formheading {
+  text-align: center;
+}
+
+.formheading p {
+  display: inline-block;
+  margin-top: 25px;
+  color: #4c4c4c;
+  font-size: 14px;
+}
+
+.formheading a {
+  font-size: 12px;
+  color: #0077c5;
 }
 
 .formfooter {
