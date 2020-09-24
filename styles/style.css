@@ -60,16 +60,44 @@ footer a {
 
 .container {
   width: 380px;
-  height: 820px;
+  height: 765px;
   margin: 10px auto;
 }
 
 .imagediv {
-  padding-left: 26px;
-  padding-top: 3px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-left: 10px;
+  padding-top: 0;
 }
 
 .imagediv:hover {
+  cursor: pointer;
+}
+
+.subproducts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.subproducts a {
+  display: inline-block;
+  padding-top: 8px;
+  color: grey;
+  font-size: 18px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.subproducts img {
   cursor: pointer;
 }
 
